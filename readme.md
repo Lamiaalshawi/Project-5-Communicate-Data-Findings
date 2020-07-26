@@ -1,4 +1,4 @@
-# Project 7: Communicate Data Findings (2017 Ford Gobike Dataset)
+# Project 5: Communicate Data Findings (2017 Ford Gobike Dataset)
 ## by Lamia Alshawi
 
 
