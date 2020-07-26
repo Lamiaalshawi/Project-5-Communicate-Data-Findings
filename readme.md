@@ -8,19 +8,19 @@
 In the second part, you will take your main findings from your exploration and convey them to others through an explanatory analysis. To this end, you will create a slide deck that leverages polished, explanatory visualizations to communicate your results. This part of the project should make heavy use of the first part of the project. Select one or two major paths in your exploration, choose relevant visualizations along that path, and then polish them to construct a story for your readers to understand what you found.
 
 > This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. This dataset includes: 
-Trip Duration (seconds)
-Start Time and Date
-End Time and Date
-Start Station ID
-Start Station Name
-Start Station Latitude
-Start Station Longitude
-End Station ID
-End Station Name
-End Station Latitude
-End Station Longitude
-Bike ID
-User Type
+Trip Duration (seconds),
+Start Time and Date,
+End Time and Date,
+Start Station ID,
+Start Station Name,
+Start Station Latitude,
+Start Station Longitude,
+End Station ID,
+End Station Name,
+End Station Latitude,
+End Station Longitude,
+Bike ID,
+User Type.
 
 
 ## Summary of Findings
